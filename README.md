@@ -73,7 +73,7 @@ http://localhost:8000
 
 # Screenshots
 
-![image alt](https://github.com/sanjaiycs/Hackathon/blob/79eaf2af74cfbfec401335662fedb23f94bc8c93/Screenshot%202025-08-18%20at%207.43.39%20PM.jpg)
+![image alt](https://github.com/sanjaiycs/Negotiation-Agent/blob/661b1be3d0d2c00303df3af67a4664a1f736808f/screenshot1.jpg)
 
 ![image alt](https://github.com/sanjaiycs/Hackathon/blob/0306e19b17d3bfb3783152a134c1ec37aa315339/Screenshot%202025-08-18%20at%207.43.58%20PM.jpg)
 
