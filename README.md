@@ -35,19 +35,6 @@ This project enables real-time conversations, personalized buyer personas, and s
 | Deployment | (Optional)  |
 
 
-# Installation 
-
-### 1. Clone the repo
-git clone https://github.com/sanjaiycs/Negotiation-Agent.git  
-cd ai-negotiation-agent
-
-### 2. Set up virtual environment
-python -m venv .venv  
-.\.venv\Scripts\activate
-
-### 3. Install dependencies
-pip install -r requirements.txt
-
 # Installing Ollama (Required)
 
 Ollama is the AI engine powering the negotiation agent.
@@ -61,8 +48,22 @@ Ollama is the AI engine powering the negotiation agent.
 ## Step 2 — Pull the AI Model
 ollama pull llama3
 
-## Step 4 — Run Ollama in the Background
+## Step 3 — Run Ollama in the Background
 ollama serve
+
+
+# Installation 
+
+### 1. Clone the repo
+git clone https://github.com/sanjaiycs/Negotiation-Agent.git  
+cd ai-negotiation-agent
+
+### 2. Set up virtual environment
+python -m venv .venv  
+.\.venv\Scripts\activate
+
+### 3. Install dependencies
+pip install -r requirements.txt
 
 ### 4. Run the server
 uvicorn app.main:app --reload
