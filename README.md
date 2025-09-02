@@ -74,8 +74,7 @@ http://localhost:8000
 # Screenshots
 
 ![image alt](https://github.com/sanjaiycs/Negotiation-Agent/blob/661b1be3d0d2c00303df3af67a4664a1f736808f/screenshot1.jpg)
-
-![image alt](https://github.com/sanjaiycs/Hackathon/blob/0306e19b17d3bfb3783152a134c1ec37aa315339/Screenshot%202025-08-18%20at%207.43.58%20PM.jpg)
+![image alt](https://github.com/sanjaiycs/Negotiation-Agent/blob/51241005d4661ff39b8839ccd5b263ba5d88ae18/screenshot2.jpg)
 
 # Future Improvements 
 
